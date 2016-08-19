@@ -1,0 +1,14 @@
+layout_spectrum: 0.5189238507300615
+typography_spectrum: 0.31251980061642826
+color:
+  brandStrength: 0.7928779637441039
+  lightness: 0.661837650462985
+  saturation: 0.09807915822602808
+  rhythmicContrast: 0.35240662936121225
+  brandColors:
+    - '#225378'
+    - '#1695A3'
+    - '#ACF0F2'
+    - '#F3FFE2'
+    - '#EB7F00'
+name: party campfire
